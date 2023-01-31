@@ -1,18 +1,18 @@
 <h1 align="center"><b>💜 harsh MUSIC BOT 💜</b></h1>
 
-<h4 align="center">Insane A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">harsh A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://t.me/chatting_gruap"><img src="https://te.legra.ph/file/9b74eaee4bad03ef033c1.jpg" width="400"></a></p>
 
 
 > 💜 Thanks to everyone for using Insane, That is the greatest pleasure we have !
 
-### Insane– History
+### harsh– History
 
 <a href="https://t.me/chatting_gruap"><img src="https://img.shields.io/badge/Join-group%20Support-blue.svg?style=for-the-badge&logo=group"></a>
 
 
-## Features Of Insane And Commands 💜
+## Features Of harsh And Commands 💜
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
