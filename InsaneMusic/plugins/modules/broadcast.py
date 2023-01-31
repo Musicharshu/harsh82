@@ -1,10 +1,10 @@
 #
 
-# Modified By © @always_hungry365
-# Rocks © @Dosto_ki_Mehfil786
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Insane © Yukki
+# Modified By © @chatting_gruap
+# Harsh © @chatting_gruap
+# Owner harsh 
+# Harsh 
+# All rights reserved. © Alisha © harsh © Yukki
 
 
 import asyncio
