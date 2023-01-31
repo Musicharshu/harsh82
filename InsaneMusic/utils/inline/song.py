@@ -1,6 +1,6 @@
-# Kanged By © @always_hungry365
-# Owner Mayank
-# All rights reserved. © Alisha © Insane © Yukki
+# Kanged By © @chatting_gruap
+# Owner harsh 
+# All rights reserved. © Alisha © harsh © Yukki
 
 
 from pyrogram.types import InlineKeyboardButton
@@ -21,7 +21,7 @@ def song_markup(_, vidid):
         [
             InlineKeyboardButton(
                 text="• sᴜᴩᴩᴏʀᴛ •",
-                url="https://t.me/DevilsHeavenMF",
+                url="https://t.me/chatting_gruap",
             ),
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
         ],
