@@ -1,6 +1,6 @@
-# Kanged By © @always_hungry365
-# Owner Mayank
-# All rights reserved. © Alisha © Insane © Yukki
+# Kanged By © @chatting_gruap
+# Owner harsh 
+# All rights reserved. © Alisha © harsh © Yukki
 
 
 import asyncio
@@ -278,14 +278,14 @@ async def welcome(client, message: Message):
 @app.on_message(commandpro(["/alive", "Insane"]) & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/e5938d9ca8fb7c2724f80.jpg",
+        photo=f"https://te.legra.ph/file/5ad247c449ffcaf833d31.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ʜᴇʟʟᴏ, Insane ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ\n✪ ᴛʜᴀɴᴋs ᴛᴏ ʏᴜᴋᴋɪ ᴛᴇᴀᴍ 🌼 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [Massom](https://t.me/always_hungry365)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [Insane ʜᴇʟᴘ](https://t.me/Insane_Help365)┓\n┣★ ʀᴇᴘᴏ › : [Insane ʀᴇᴘᴏ](https://github.com/TheTeamInsane/InsaneMusic)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/always_hungry365) ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ sᴛᴀʀ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌼 Insane ᴄʜᴀᴛ 💮", url=f"https://t.me/Dosto_ki_Mehfil786"
+                        "🌼 Insane ᴄʜᴀᴛ 💮", url=f"https://t.me/chatting_gruap"
                     )
                 ]
             ]
