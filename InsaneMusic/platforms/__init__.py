@@ -1,6 +1,6 @@
-# Kanged By © @always_hungry365
-# Owner Mayank
-# All rights reserved. © Alisha © Insane © Yukki
+# Kanged By © @chatting_gruap
+# Owner  harsh 
+# All rights reserved. © Alisha © harsh  © Yukki
 
 
 from .Apple import AppleAPI
