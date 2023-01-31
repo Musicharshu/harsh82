@@ -1,10 +1,9 @@
 #
 
 # Kanged By © always_hungry365
-# Rocks © @Dosto_ki_Mehfil786
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Insane © Yukki
+# Rocks © @chatting_gruap
+# Owner harsh 
+# All rights reserved. © Alisha © harsh © Yukki
 
 
 import re
@@ -103,7 +102,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/e5938d9ca8fb7c2724f80.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/5ad247c449ffcaf833d31.jpg"
 )
 
 PING_IMG_URL = getenv(
