@@ -2,9 +2,9 @@
 # Copyright (C) 2021-2022 by Insane_Help365 @Github, < https://github.com/TheTeamInsane >.
 # #
 
-# Rocks © @Dosto_ki_Mehfil786
-# Owner Asad Ali
-# All rights reserved. © Alisha © Insane © Yukki © AnonXMusic
+# Rocks © @chatting_gruap
+# Owner harsh
+# All rights reserved. © Alisha © harsh © Yukki © AnonXMusic
 
 
 import asyncio
