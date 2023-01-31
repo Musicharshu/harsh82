@@ -1,10 +1,9 @@
 #
 
-# Kanged By © @always_hungry365
-# Rocks © @Dosto_ki_Mehfil786
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Insane
+# Kanged By © @chatting_gruap
+# Rocks © @chatting_gruap
+# Owner harsh
+# All rights reserved. © Alisha © harsh 
 
 
 import asyncio
