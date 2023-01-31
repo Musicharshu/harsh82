@@ -1,10 +1,9 @@
 #
 
-# Modified By © @always_hungry365
-# Rocks © @Dosto_ki_Mehfil786
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Insane © Yukki
+# Modified By © @chatting_gruap
+# Rocks © @chatting_gruap
+# Owner harsh 
+# All rights reserved. © Alisha © harsh © Yukki
 
 
 import asyncio
@@ -180,7 +179,7 @@ async def top_users_ten(client, CallbackQuery: CallbackQuery, _):
                 details = stats.get(items)
                 title = (details["title"][:35]).title()
                 if items == "telegram":
-                    msg += f"🌹 [ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/Dosto_ki_Mehfil786) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
+                    msg += f"🌹 [ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/chatting_gruap) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
                 else:
                     msg += f"🌹 [{title}](https://www.youtube.com/watch?v={items}) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
 
