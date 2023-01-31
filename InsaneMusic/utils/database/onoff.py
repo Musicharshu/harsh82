@@ -1,8 +1,7 @@
 # #
 # Without Credit (Mother Fucker)
-# Rocks © @always_hungry365 © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Rocks © @chatting_gruap © Rocks
+# Owner harsh
 
 
 from typing import Dict, List, Union
