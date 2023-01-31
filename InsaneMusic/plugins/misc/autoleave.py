@@ -1,6 +1,6 @@
-# Kanged By © @always_hungry365
-# Owner Mayank
-# All rights reserved. © Alisha © Insane © Yukki
+# Kanged By © @chatting_gruap
+# Owner harsh 
+# All rights reserved. © Alisha © harsh © Yukki
 
 
 import asyncio
@@ -30,7 +30,7 @@ async def auto_leave():
                             chat_id = i.chat.id
                             if (
                                 chat_id != config.LOG_GROUP_ID
-                                and chat_id != -1001686672798
+                                and chat_id !=-1001618068091
                             ):
                                 if not await is_active_chat(chat_id):
                                     try:
