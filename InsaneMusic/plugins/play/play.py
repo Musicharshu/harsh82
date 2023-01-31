@@ -1,12 +1,11 @@
 #
-# Copyright (C) 2021-2022 by Insane_Help365@Github, < https://github.com/TheTeamInsane >.
+# Copyright (C) 2021-2022 by Insane_Help365@Github, < https://github.com/Musicharshu >.
 # #
 
-# Kanged By © @always_hungry365
-# Rocks © @Dosto_ki_Mehfil786
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Insane © Yukki
+# Kanged By © @chatting_gruap
+# alone © @chatting_gruap
+# Owner harsh
+# All rights reserved. © Alisha © Harsh © Yukki
 
 
 import random
