@@ -1,18 +1,18 @@
-<h1 align="center"><b>❤️ Insane MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>💜 harsh MUSIC BOT 💜</b></h1>
 
 <h4 align="center">Insane A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/always_hungry365"><img src="https://telegra.ph/file/e5938d9ca8fb7c2724f80.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/chatting_gruap"><img src="https://te.legra.ph/file/9b74eaee4bad03ef033c1.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using Insane, That is the greatest pleasure we have !
+> 💜 Thanks to everyone for using Insane, That is the greatest pleasure we have !
 
 ### Insane– History
 
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<a href="https://t.me/chatting_gruap"><img src="https://img.shields.io/badge/Join-group%20Support-blue.svg?style=for-the-badge&logo=group"></a>
 
 
-## Features Of Insane And Commands ❤️
+## Features Of Insane And Commands 💜
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
@@ -35,7 +35,7 @@
 - Block / Unblock (restrict user for using your bot)
 </details>
 
-#### Overall Basic Commands 😂
+#### Overall Basic Commands 💜
 <details>
 <summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
 <br>
@@ -49,7 +49,7 @@
 - `/vk <song name>` - generate song without download
 </details>
 
-### Only Admin Can Exicute 🙄
+### Only Admin Can Exicute 💜
 
 <details>
 <summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
@@ -65,7 +65,7 @@
 - `/deauth` - deauthorized people to access the admin commands
 </details>
 
-### Sudo Commands 🤭
+### Sudo Commands 💜
 <details>
 <summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
 <br>
@@ -74,7 +74,7 @@
 - `/gban` - gban user
 </details>
     
-### Only Owner 🙈
+### Only Owner 💜
 <details>
 <summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
 <br>
@@ -106,9 +106,9 @@
 <details>
 <summary><b>sᴄᴀʟɪɴɢᴏ</b></summary>
 <br>
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ Insane ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ harsh ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamInsane/InsaneMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href=https://github.com/Musicharshu/harsh82"https://my.scalingo.com/deploy?template="> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
     
 </details>
 
@@ -146,10 +146,9 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
+- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/MR_HARSH_OP)
+- [ʟᴏɢɪ ʟᴀʙ](https://github.com/Musicharshu)
+- [ʜᴀʀsʜɪᴛ](https://t.me/MR_HARSH_OP)
 - [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
 - [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
 </details>
@@ -158,8 +157,7 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
+- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/MR_HARSH_OP)
 
 </details>
 
@@ -167,10 +165,10 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-# ❤️ Support<
-<a href="https://t.me/Insane_Help365"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Dosto_ki_Mehfil786"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Insane_Help365"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+# ⚡ Support<
+<a href="https://t.me/chatting_gruap"><img src="https://img.shields.io/badge/Join-Telegram%20Groip-red.svg?logo=Telegram"></a>
+<a href="https://t.me/chatting_gruap"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/chatting_gruap"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
