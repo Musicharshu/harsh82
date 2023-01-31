@@ -1,9 +1,8 @@
 #
 
-# Rocks © @Dosto_ki_Mehfil786
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Insane © Yukki
+# Rocks © @chatting_gruap
+# Owner harsh
+# All rights reserved. © Alisha © Harsh © Yukki
 
 
 from config import LOG, LOG_GROUP_ID, MUSIC_BOT_NAME
